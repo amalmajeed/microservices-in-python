@@ -1,1 +1,3 @@
 project-env
+*.xlsx
+.DS_Store
